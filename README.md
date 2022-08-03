@@ -35,6 +35,6 @@ Use k-means clustering to segment the athletes in the attached data set into mea
 9.  Interpret results.  
 
 ### Results
-All exploratory and inferential statistical analysis and clustering can be found in the attached [notebook](Module3_HomeWork_Final_Changed_After_Class.R.html).  
+All exploratory and inferential statistical analysis and clustering can be found in the attached [notebook](Module3_HomeWork_Final_Changed_After_Class.R) or [notebook with Graphs](Module3_HomeWork_Final_Changed_After_Class.R.html).  
 
 
